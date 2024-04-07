@@ -1,13 +1,13 @@
 # VersionPinning
 USD file version pinning for Houdini users (personal project).
-<br>(<span style="color: #808080;">Houdini 사용자를 위한 USD 파일 버전 피닝 (개인 프로젝트)</span>)
+<br>(<span style="color: #808080; font-size: 14px;">Houdini 사용자를 위한 USD 파일 버전 피닝 (개인 프로젝트)</span>)
 
 When an artist works, versions of the usd file can be easily viewed and information about the versions can be easily checked.
-<br>(<span style="color: #808080;">아티스트가 작업하면 usd 파일의 버전을 쉽게 볼 수 있고 버전에 대한 정보도 쉽게 확인할 수 있다.</span>)
+<br>(<span style="color: #808080; font-size: 14px;">아티스트가 작업하면 usd 파일의 버전을 쉽게 볼 수 있고 버전에 대한 정보도 쉽게 확인할 수 있다.</span>)
 
 ---
 ## Code Dependency
-<img width="944" alt="code_dependency" src="https://github.com/yeko0124/VersionPinning/assets/155792229/25959aff-7e85-4bf7-811a-6b3d7db7c755">
+<img width="472" alt="code_dependency" src="https://github.com/yeko0124/VersionPinning/assets/155792229/25959aff-7e85-4bf7-811a-6b3d7db7c755">
 
 ---
 ## Demonstration
