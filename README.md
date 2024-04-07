@@ -1,5 +1,5 @@
-# VersionPinning
-USD file version pinning for Houdini users (artists) (personal project).
+# VersionPinning -> Personal Project (2024.03 / for a month)
+USD file version pinning for Houdini users (artists).
 <br>When an artist works, versions of the USD file can be easily viewed, and information about the versions can be easily checked.
 
 ## Main Function
