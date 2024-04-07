@@ -1,0 +1,49 @@
+{
+    "shot": {
+        "DPP": {
+            "EP01": {
+                "Animation": "yeeun",
+                "Asset": "seonhui",
+                "Effects": {
+                    "Effect": "juno",
+                    "Particle_Effect": "jiyoung",
+                    "VFX_Supervision": "seongcheol"
+                },
+                "Lighting": "junhyeok",
+                "Modeling": "jeonghyeon",
+                "Rendering": "sian",
+                "Rigging": "sujin",
+                "Texturing": "sangbok"
+            },
+            "EP02": {
+                "Animation": {},
+                "Effects": {},
+                "Lighting": {},
+                "Modeling": {},
+                "Rendering": {},
+                "Rigging": {},
+                "Texturing": {}
+            }
+        },
+        "JEP": {
+            "EP01": {
+                "Animation": {},
+                "Effects": {},
+                "Lighting": {},
+                "Modeling": {},
+                "Rendering": {},
+                "Rigging": {},
+                "Texturing": {}
+            },
+            "EP02": {
+                "Animation": {},
+                "Effects": {},
+                "Lighting": {},
+                "Modeling": {},
+                "Rendering": {},
+                "Rigging": {},
+                "Texturing": {}
+            }
+        }
+    }
+}
