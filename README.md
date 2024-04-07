@@ -1,4 +1,5 @@
-# VersionPinning -> Personal Project (2024.03 / for a month)
+# VersionPinning -> Personal Project 
+(2024.03 / for a month)
 USD file version pinning for Houdini users (artists).
 <br>When an artist works, versions of the USD file can be easily viewed, and information about the versions can be easily checked.
 
@@ -31,19 +32,19 @@ USD file version pinning for Houdini users (artists).
 1. Download zip file or use git pull to get files.
 2. To run mysql in houdini, You need to follow some procedures.
    * Enter the path that comes out when you type **'hou.homeHoudiniDirectory()'** in the Houdini Python script.
-   * Create **scripts** directory and create **123.py** in scripts directory that you created now
+   * Create **scripts** directory and create **123.py** in scripts directory that you created now.
    * Write this code in 123.py
       ```python
      import site
      site.addsitedir('hou.homeHoudiniDirectory()/scripts/site-packages')
      ```
-   * Move **site-package** directory to **scripts** directory that you made
+   * Move **site-package** directory to **scripts** directory that you made. So, you need unzip the site-package zip file.
    * You must also change the password in the **libs/db.py** file.
-3. Move **Lop** directory to same path where the **scripts** directory located
-   * The third line of the **'usd_rop_OnCreated.py'** file, which is located in Lop directory, requires you to change the path
-4. If you need, install qtawesome
+3. Move **Lop** directory to same path where the **scripts** directory located.
+   * The third line of the **'usd_rop_OnCreated.py'** file, which is located in Lop directory, requires you to change the path.
+4. If you need, install qtawesome.
    ```$ pip install qtawesome```
-5. Add to the Python panel and edit the interface to enter the code below
+5. Add to the Python panel and edit the interface to enter the code below.
    ```python
    from hutil.Qt import QtWidgets
 
